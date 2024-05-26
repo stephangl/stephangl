@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **sglooten@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me **sglooten@gmail.com**
 -->
