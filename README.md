@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephan Looten</h1>
-<h3 align="center">A passionate full stack developer in Florida</h3>
+<h3 align="center">An aspiring full stack developer in Florida</h3>
 
 - 👨‍💻 All of my projects are available at [stephanlooten.com](stephanlooten.com)
 
