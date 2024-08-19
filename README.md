@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephan Looten</h1>
 <h3 align="center">An aspiring full stack developer in Florida</h3>
 
-- 👨‍💻 All of my projects are available at [stephanlooten.com](stephanlooten.com)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,5 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me **sglooten@gmail.com**
-// - 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript**
+- 👨‍💻 All of my projects are available at [stephanlooten.com](stephanlooten.com)
 -->
