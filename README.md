@@ -22,7 +22,7 @@ Final-year Computer Science student based in Florida, transitioning from 9 years
 
 **Databases:** PostgreSQL
 
-**Tools:** Git, Bash, VS Code
+**Tools:** Git, Bash, Docker, VS Code
 
 ---
 
