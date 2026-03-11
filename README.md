@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Engineer in Florida</h3>
 
 
-Final-year Computer Science student based in Florida, building a career in data engineering. I'm focused on designing clean data pipelines, relational databases, and turning messy datasets into reliable sources of truth.
+Final-year Computer Science student based in Florida, transitioning from 9 years in marketing to data engineering. My time leading data-driven campaigns across social media, media buying, and email marketing taught me what happens when data is messy, late, or unreliable, now I'm building the systems that fix that.
 
 ---
 
